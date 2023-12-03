@@ -1,0 +1,13 @@
+
+.body {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+.hero_buttons{
+    display: flex;
+    flex-direction: row;
+    width: 220px;
+
+}
